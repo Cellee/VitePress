@@ -13,8 +13,8 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     algolia: {
-      apiKey: '20b88bdd51332433b33016054db474d6',
-      indexName: '0f70d0737b4a0098a574a4d5d45c229b',
+      apiKey: '769658151b52a9e9fc8d5b06a45163ec',
+      indexName: 'chodocs',
       appId: '1QDEN86POS',
     },
 
